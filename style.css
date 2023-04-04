@@ -19,7 +19,7 @@ html{
     background-size: cover;
     color: #fff;
     background-position: center;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/background.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(background.jpg);
 }
 .container{
     padding: 2% 10%;
